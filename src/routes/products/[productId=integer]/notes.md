@@ -1,0 +1,2 @@
+-- The [productId=integer] indicates that the route will match the match() function from params/integer file
+-- in this example params/integer.js returns true if productId is an integer
