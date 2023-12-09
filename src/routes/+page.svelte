@@ -1,5 +1,7 @@
 <script>
     import { goto, beforeNavigate, afterNavigate } from '$app/navigation';
+
+    
     const handleClick = () =>{
         goto('/products')
     }

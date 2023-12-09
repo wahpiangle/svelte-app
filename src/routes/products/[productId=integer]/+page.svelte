@@ -6,3 +6,5 @@
 </script>
 
 <h1>Product detail under nested route in {paramsResult}</h1>
+<!-- go to current page + /reviews -->
+<a href={$page.params.productId + '/reviews'} class="text-blue-900 underline">Reviews</a>
